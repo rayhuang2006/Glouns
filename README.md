@@ -1,5 +1,7 @@
 # Glouns
 
+![glounsIcon](https://github.com/rayhuang2006/Glouns/blob/main/glounsIcon.png)
+
 It is a homework for students from HCHS. You can just copy this as your homework. 
 
 ## How to use it.
