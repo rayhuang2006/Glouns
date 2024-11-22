@@ -4,6 +4,12 @@ It is a homework for students from HCHS. You can just copy this as your homework
 
 ## How to use it.
 
+### Step 0.
+
+Before everything started just remember to install python and discord package.
+
+Just don't forget to type `pip install discord` in your cmd or terminal.
+
 ### Step 1.
 
 You can just git clone to your mechine, I just skip this because I think that you can just google it.
